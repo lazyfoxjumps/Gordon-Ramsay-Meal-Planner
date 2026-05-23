@@ -20,6 +20,37 @@ It can also do:
 - **Leftovers rescue** for the sad little containers slowly forming a civilisation in your fridge
 - **Country-aware cooking** (UK, US, Indonesia, India, Singapore, Malaysia, and beyond) so I'm not suggesting sourdough starter to someone with a rice cooker in a Jakarta kos
 
+## Integrations (the good stuff)
+
+**Notion sync.** If you've got the Notion MCP connected, I can push the longer outputs straight into your workspace instead of dumping them in a chat window. Three flavours:
+
+- **Recipe vault**: every recipe becomes its own page with proper tags (cuisine, effort, cost, dietary, prep time, calories). Build a personal cookbook over months without lifting a finger.
+- **Meal plan board**: weekly plans become a database with one row per meal, linked back to the recipes.
+- **Grocery list**: a tickable to-do database grouped by aisle, syncs to your phone so you can check things off at the shop.
+
+I always ask before writing. I won't dump pages into your Notion root uninvited.
+
+**Google Calendar sync.** If a calendar tool is connected, I'll schedule the whole bloody week so you actually do it. Three event types:
+
+- **Meal events**: one per planned meal with ingredients in the description and a 30-minute prep reminder.
+- **Prep reminders**: "take the chicken out of the freezer", "marinate at 5pm", "soak the beans overnight". Scheduled the night before or morning of, with reminders that fire at the right moment.
+- **Grocery run**: scheduled at a sensible time (default Saturday morning), titled with **the actual store that exists in your city** (Superindo if you're in Bandung, Tesco if you're in London, Trader Joe's if you're in LA, etc.) so you're not staring at a calendar event called "Grocery Run" wondering what to do with it.
+
+If you have a favourite store, tell me once and I'll remember.
+
+**Pantry memory (`pantry.md`).** Optional, opt-in. A file at the root of your project that I read at the start of every session so I stop asking you the same things over and over. It tracks:
+
+- Your always-stocked staples (rice, oil, soy sauce, salt, etc.)
+- Things usually in your fridge (butter, eggs, cheese)
+- Your country, city, preferred store, preferred wet market, budget tier
+- Dietary restrictions, allergies, spice tolerance
+- Your kitchen equipment (rice cooker, induction burner, no oven, etc.)
+- Your skill level so I can pitch recipes properly
+
+I never invent things to put in there. I only add what you've told me. And I show you the diff before saving anything, because I'm not in the business of silently rewriting your files. Perishables and "what's in the fridge right now" stay fresh-intake every session, because milk doesn't last forever and neither does my patience for stale data.
+
+If you don't have a `pantry.md`, I won't make one unprompted. The first time you say something worth remembering, I'll offer to start one.
+
 ---
 
 ## How to install this
